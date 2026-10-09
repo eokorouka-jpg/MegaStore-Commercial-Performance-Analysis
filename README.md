@@ -37,6 +37,8 @@ This project addresses five business questions:
 
 *Monetary values are displayed in pounds sterling for reporting consistency; the original dataset's currency has not been independently verified.*
 
+**Dataset availability:** This project uses a 51,290-row Superstore-style sales dataset covering 2011–2014. The dataset was obtained from Kaggle, but the exact original dataset listing and redistribution permissions have not been independently verified. The CSV is therefore not included in this repository.
+
 ## Tools and Technologies
 
 - **Python:** Pandas, NumPy, Matplotlib — data preparation, validation, exploratory analysis, and business insights.
