@@ -170,15 +170,15 @@ Evaluate shipping cost intensity across delivery modes while considering custome
 
 ### Executive Overview
 
-![Executive Overview](images/01_executive_overview.png)
+![Executive Overview](executive_overview.png)
 
 ### Profitability Drivers
 
-![Profitability Drivers](images/02_profitability_drivers.png)
+![Profitability Drivers](profitability_drivers.png)
 
 ### Loss Analysis & Recommendations
 
-![Loss Analysis and Recommendations](images/03_loss_analysis_and_recommendations.png)
+![Loss Analysis and Recommendations](loss_analysis_and_recommendations.png)
 
 *Dashboard image links should match the actual filenames in the images folder.*
 
